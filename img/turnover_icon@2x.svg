@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>turnover_icon@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="turnover_icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="Mask" x="0.482758621" y="0" width="27.0344828" height="28"></rect>
+            <g id="Group-9" transform="translate(4.471429, 4.076225)">
+                <ellipse id="Oval-4" stroke="#352424" cx="10.0285714" cy="9.8738657" rx="10.0285714" ry="9.8738657"></ellipse>
+                <g id="Group-8" transform="translate(4.628571, 3.797641)">
+                    <path d="M0.0256889433,2.79947685 L8.39212114,2.79947685" id="Path-34" stroke="#352424" stroke-linecap="round"></path>
+                    <polygon id="Triangle-2" fill="#C00000" points="10.1418953 2.65582926 6.46314541 5.13147653 6.46314541 0.180181987"></polygon>
+                </g>
+                <g id="Group-8-Copy" transform="translate(9.928571, 12.873866) scale(-1, 1) translate(-9.928571, -12.873866) translate(4.428571, 9.873866)">
+                    <path d="M0.0256889433,2.79947685 L8.39212114,2.79947685" id="Path-34" stroke="#352424" stroke-linecap="round"></path>
+                    <polygon id="Triangle-2" fill="#C00000" points="10.1418953 2.65582926 6.46314541 5.13147653 6.46314541 0.180181987"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

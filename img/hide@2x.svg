@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>hide@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="hide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="密码不可见" stroke="#352424" stroke-width="1.5">
+            <g id="Group-3" transform="translate(6.000000, 11.500000)">
+                <path d="M0,0 C0,3.20263783 3.80346532,5.79888876 8.49527756,5.79888876 C13.1870898,5.79888876 16.9905551,3.20263783 16.9905551,0" id="Oval-28"></path>
+                <path d="M8.5,6.11111111 L8.5,8.5" id="Path-64-Copy"></path>
+                <path d="M14.1666667,4.72222222 L14.1666667,6.20296941" id="Path-64-Copy-2"></path>
+                <path d="M2.83333333,4.72222222 L2.83333333,6.20296941" id="Path-64-Copy-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

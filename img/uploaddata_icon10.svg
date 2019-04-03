@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="40px" viewBox="0 0 48 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>uploaddata_icon10</title>
+    <desc>Created with Sketch.</desc>
+    <g id="uploaddata_icon10" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <polygon id="Rectangle-2-Copy-6" points="0 0 48 0 48 40 0 40"></polygon>
+            <g id="Group-5" transform="translate(14.000000, 4.000000)">
+                <path d="M3.33333333,-2.48689958e-14 L16.6666667,-2.48689958e-14 C18.5076158,-2.48689958e-14 20,1.1664848 20,2.60541672 L20,27.1707744 C20,28.6097063 18.5076158,29.7761911 16.6666667,29.7761911 L3.33333333,29.7761911 C1.49238417,29.7761911 0,28.6097063 0,27.1707744 L0,2.60541672 C0,1.1664848 1.49238417,-2.48689958e-14 3.33333333,-2.48689958e-14 Z" id="Rectangle-3" fill="#C00000"></path>
+                <polygon id="Rectangle-4" fill="#FFFFFF" points="2.5 3.8070016 17.5 3.8070016 17.5 24.2696352 2.5 24.2696352"></polygon>
+                <circle id="Oval" fill="#FFFFFF" cx="10" cy="26.7857143" r="1.71428571"></circle>
+                <path d="M7.42857143,1.64285714 L12.5714286,1.64285714 C12.808122,1.64285714 13,1.83473511 13,2.07142857 C13,2.30812204 12.808122,2.5 12.5714286,2.5 L7.42857143,2.5 C7.19187796,2.5 7,2.30812204 7,2.07142857 C7,1.83473511 7.19187796,1.64285714 7.42857143,1.64285714 Z" id="Rectangle-151" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

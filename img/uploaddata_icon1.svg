@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="40px" viewBox="0 0 48 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>uploaddata_icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="uploaddata_icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="身份证正反面" transform="translate(3.000000, 2.500000)">
+            <g id="Group-6" transform="translate(7.125000, 7.000000)">
+                <g id="Group">
+                    <rect id="Rectangle-62" fill="#C00000" x="5.32907052e-15" y="-1.0658141e-14" width="27.75" height="19.5914634" rx="1"></rect>
+                    <g id="Group-21" transform="translate(2.990854, 4.353659)" fill="#FFFFFF">
+                        <g id="分组" transform="translate(0.500000, 0.500000)">
+                            <path d="M2.8261055,0.677767355 C3.65121358,-0.225922452 5.9136423,-0.225922452 6.73875038,0.677767355 C7.56385846,1.58145716 7.56385846,3.56884985 6.73875038,4.47253966 C5.9136423,5.37622946 3.65121358,5.37622946 2.8261055,4.47253966 C2.00099741,3.56884985 2.00099741,1.58145716 2.8261055,0.677767355 Z" id="Rectangle-4"></path>
+                            <polygon id="Rectangle-5" points="-6.48370246e-14 5.0165328 4.78242794 3.67879072 9.56485588 5.28408122 9.56485588 9.56485588 -6.48370246e-14 9.56485588"></polygon>
+                        </g>
+                    </g>
+                    <path d="M16.1402439,9.79573171 L24.1334981,9.79573171" id="Path-64" stroke="#FFFFFF" stroke-width="2"></path>
+                    <path d="M16.1402439,14.1493902 L24.1334981,14.1493902" id="Path-64-Copy" stroke="#FFFFFF" stroke-width="2"></path>
+                    <path d="M16.1402439,5.44207317 L24.1334981,5.44207317" id="Path-64-Copy-2" stroke="#FFFFFF" stroke-width="2"></path>
+                </g>
+            </g>
+            <g id="Group-9"></g>
+        </g>
+    </g>
+</svg>

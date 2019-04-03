@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="107px" viewBox="0 0 375 107" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>banner2 copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,2.13162821e-14 L375,2.13162821e-14 L375,92.6109494 C312.5,102.20365 250,107 187.5,107 C125,107 62.5,102.20365 0,92.6109494 L0,2.13162821e-14 Z" id="path-1"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="82.3574427%" id="linearGradient-3">
+            <stop stop-color="#FF9900" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="86.717002%" id="linearGradient-4">
+            <stop stop-color="#FF9900" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="43.4475593%" id="linearGradient-5">
+            <stop stop-color="#FF9900" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="25.543589%" id="linearGradient-6">
+            <stop stop-color="#FF9900" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="67.567106%" id="linearGradient-7">
+            <stop stop-color="#FF9900" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="banner2-copy">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#A60505" xlink:href="#path-1"></use>
+            <rect id="矩形-copy-2" fill-opacity="0.200000003" fill="url(#linearGradient-3)" opacity="0.691801525" mask="url(#mask-2)" x="128" y="7" width="12" height="76" rx="6"></rect>
+            <rect id="矩形-copy-9" fill-opacity="0.200000003" fill="url(#linearGradient-3)" opacity="0.691801525" mask="url(#mask-2)" x="137" y="74" width="12" height="31" rx="6"></rect>
+            <rect id="矩形-copy-7" fill-opacity="0.200000003" fill="url(#linearGradient-3)" opacity="0.691801525" mask="url(#mask-2)" x="359" y="67" width="12" height="24" rx="6"></rect>
+            <rect id="矩形-copy-4" fill-opacity="0.200000003" fill="url(#linearGradient-3)" mask="url(#mask-2)" x="334" y="16" width="21" height="84" rx="10.5"></rect>
+            <rect id="矩形-copy-6" fill-opacity="0.200000003" fill="url(#linearGradient-4)" mask="url(#mask-2)" x="290" y="62" width="32" height="38" rx="16"></rect>
+            <rect id="矩形-copy-11" fill-opacity="0.200000003" fill="url(#linearGradient-3)" mask="url(#mask-2)" x="43" y="21" width="32" height="76" rx="16"></rect>
+            <rect id="矩形-copy-3" fill-opacity="0.200000003" fill="url(#linearGradient-5)" mask="url(#mask-2)" x="260" y="33" width="12" height="76" rx="6"></rect>
+            <rect id="矩形-copy-5" fill-opacity="0.200000003" fill="url(#linearGradient-3)" opacity="0.507138207" mask="url(#mask-2)" x="216" y="14" width="15" height="94" rx="7.5"></rect>
+            <rect id="矩形-copy" fill-opacity="0.200000003" fill="url(#linearGradient-6)" mask="url(#mask-2)" x="87" y="56" width="12" height="76" rx="6"></rect>
+            <rect id="矩形-copy-8" fill-opacity="0.200000003" fill="url(#linearGradient-7)" mask="url(#mask-2)" x="266" y="67" width="12" height="36" rx="6"></rect>
+            <rect id="矩形" fill-opacity="0.200000003" fill="url(#linearGradient-3)" mask="url(#mask-2)" x="18" y="60" width="17" height="35" rx="8.5"></rect>
+            <rect id="矩形-copy-10" fill-opacity="0.200000003" fill="url(#linearGradient-3)" opacity="0.691801525" mask="url(#mask-2)" x="65" y="87" width="12" height="13" rx="6"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>refresh@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="refresh" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <g id="Group-Copy-13" transform="translate(4.000000, 2.000000)">
+                <path d="M6.5,3.5 C3.1862915,3.5 0.5,6.1862915 0.5,9.5 C0.5,12.8137085 3.1862915,15.5 6.5,15.5 C9.27310191,15.5 11.6068045,13.6187081 12.2944492,11.0627829" id="Oval-5" stroke="#CDBBBB" stroke-width="1.5" stroke-linecap="round"></path>
+                <polygon id="Triangle" fill="#CDBBBB" points="11.3440109 3.70386053 6.34401085 6.70386053 6.34401085 0.703860531"></polygon>
+            </g>
+            <rect id="Rectangle-5" x="0.5" y="0.5" width="20" height="20"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="41px" viewBox="0 0 48 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>uploaddata_icon4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="uploaddata_icon4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="营业执照" transform="translate(2.000000, 2.000000)">
+            <g id="Group-3" transform="translate(8.416667, 5.500000)">
+                <rect id="Rectangle-62-Copy" fill="#C00000" x="0" y="4" width="27.25" height="19.6415215" rx="1"></rect>
+                <g id="Group-2" transform="translate(2.426829, 8.853659)" fill="#FFFFFF">
+                    <circle id="Oval-2" cx="5.53353659" cy="3.68902439" r="3.68902439"></circle>
+                    <polygon id="Rectangle" transform="translate(2.951220, 8.484756) rotate(26.000000) translate(-2.951220, -8.484756) " points="1.47560976 5.16463415 4.42682927 5.16463415 4.42682927 11.804878 2.95121951 9.96036585 1.47560976 11.804878"></polygon>
+                    <polygon id="Rectangle-Copy" transform="translate(8.115854, 8.484756) scale(-1, 1) rotate(26.000000) translate(-8.115854, -8.484756) " points="6.6402439 5.16463415 9.59146341 5.16463415 9.59146341 11.804878 8.11585366 9.96036585 6.6402439 11.804878"></polygon>
+                </g>
+                <rect id="Rectangle-2" stroke="#FFFFFF" stroke-width="2" fill="#C00000" x="8.59146341" y="1" width="9.80487805" height="3.90243902"></rect>
+                <path d="M17.1829268,10.3292683 L23.7080813,10.3292683" id="Path-67" stroke="#FFFFFF" stroke-width="2"></path>
+                <path d="M17.1829268,14.7560976 L23.7080813,14.7560976" id="Path-67-Copy" stroke="#FFFFFF" stroke-width="2"></path>
+                <path d="M17.1829268,19.1829268 L23.7080813,19.1829268" id="Path-67-Copy-2" stroke="#FFFFFF" stroke-width="2"></path>
+            </g>
+            <g id="Group-9-Copy-2" transform="translate(0.000000, 0.458333)"></g>
+        </g>
+    </g>
+</svg>

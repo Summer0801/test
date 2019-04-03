@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="40px" viewBox="0 0 48 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>uploaddata_icon6</title>
+    <desc>Created with Sketch.</desc>
+    <g id="uploaddata_icon6" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <polygon id="Rectangle-2" points="0 0 48 0 48 40 0 40"></polygon>
+            <g id="Group" transform="translate(12.000000, 5.000000)">
+                <path d="M0,4.67218746 C1.86891225,4.58712082 3.86891225,4.20751757 6,3.53337771 C8.13108775,2.85923785 10.1310877,1.84696252 12,0.496551724 C14.1310877,1.92989808 16.1310877,2.94217341 18,3.53337771 C19.8689123,4.12458201 21.8689123,4.50418526 24,4.67218746 L24,13.1720661 C24,20.4514551 19.0569196,26.8013057 12,28.5871921 L12,28.5871921 C4.94308036,26.8013057 -8.84888788e-16,20.4514551 -1.77635684e-15,13.1720661 L0,4.67218746 Z" id="Rectangle" fill="#C00000"></path>
+                <g id="Group-2" transform="translate(5.750000, 6.724138)" stroke="#FFFFFF" stroke-width="2">
+                    <path d="M2.88461538,0.954907162 L3.70176575,2.79892888" id="Path-148"></path>
+                    <polyline id="Path-149" points="0.466858211 3.28206378 4.44315166 3.28206378 0.466858211 8.45898595"></polyline>
+                    <path d="M4.74717049,8.50896667 L2.27104221,6.37141275" id="Path-150"></path>
+                    <path d="M2.48867599,6.39761886 L2.48867599,13.0153335" id="Path-151"></path>
+                    <path d="M5.18053375,5.53416811 L11.4233818,5.53416811" id="Path-152"></path>
+                    <path d="M8.42681356,1.34983608 L8.42681356,12.2536423" id="Path-153"></path>
+                    <path d="M4.49117877,12.2888601 L12.0270946,12.2888601" id="Path-154"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="257px" height="127px" viewBox="0 0 257 127" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>banner_bg@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0.5" width="21" height="15"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="82.3574427%" id="linearGradient-3">
+            <stop stop-color="#FF9900" offset="0%"></stop>
+            <stop stop-color="#FF9700" stop-opacity="0.291953282" offset="53.8665824%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="注册成功提示-N秒后自动跳转下载页面" transform="translate(-59.000000, -248.000000)">
+            <g id="banner_bg" transform="translate(59.000000, 248.000000)">
+                <g id="stars_yellow" transform="translate(67.000000, 51.000000)">
+                    <polygon fill="#FF9A00" transform="translate(8.363961, 8.000000) rotate(-315.000000) translate(-8.363961, -8.000000) " points="3.86396103 3.5 8.36396103 5.5 12.863961 3.5 10.863961 8 12.863961 12.5 8.36396103 10.5 3.86396103 12.5 5.86396103 8"></polygon>
+                    <rect id="Rectangle-5" x="0.5" y="0" width="16" height="16"></rect>
+                </g>
+                <g id="stars_yellow2" transform="translate(175.000000, 53.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <g id="Group-3" mask="url(#mask-2)" fill="#FF9A00">
+                        <g transform="translate(0.000000, 2.000000)">
+                            <polygon id="Rectangle-3-Copy-15" fill-opacity="0.49000001" transform="translate(15.114681, 6.500000) rotate(-315.000000) translate(-15.114681, -6.500000) " points="11.1146808 2.5 15.1146808 4.27777778 19.1146808 2.5 17.336903 6.5 19.1146808 10.5 15.1146808 8.72222222 11.1146808 10.5 12.8924586 6.5"></polygon>
+                            <polygon id="Rectangle-3-Copy-16" transform="translate(3.000000, 8.385319) rotate(-289.000000) translate(-3.000000, -8.385319) " points="1 6.38531921 3 7.2742081 5 6.38531921 4.11111111 8.38531921 5 10.3853192 3 9.49643032 1 10.3853192 1.88888889 8.38531921"></polygon>
+                        </g>
+                    </g>
+                </g>
+                <rect id="Rectangle-24" fill-opacity="0.150000006" fill="url(#linearGradient-3)" x="224" y="0" width="33" height="129" rx="16.5"></rect>
+                <rect id="Rectangle-24-Copy-5" fill-opacity="0.150000006" fill="url(#linearGradient-3)" x="0" y="0" width="33" height="129" rx="16.5"></rect>
+                <rect id="Rectangle-24-Copy" fill-opacity="0.33" fill="url(#linearGradient-3)" transform="translate(212.000000, 85.568289) rotate(-360.000000) translate(-212.000000, -85.568289) " x="205" y="21" width="14" height="129.136579" rx="7"></rect>
+                <rect id="Rectangle-24-Copy-6" fill-opacity="0.33" fill="url(#linearGradient-3)" transform="translate(45.000000, 85.568289) rotate(-360.000000) translate(-45.000000, -85.568289) " x="38" y="21" width="14" height="129.136579" rx="7"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

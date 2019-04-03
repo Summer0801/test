@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="21px" viewBox="0 0 14 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>stars_big@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0.5" width="14" height="20"></rect>
+    </defs>
+    <g id="stars_big" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <g id="Group-4" mask="url(#mask-2)">
+                <g transform="translate(-1.000000, -1.000000)">
+                    <g id="stars_big" stroke="none" fill-rule="evenodd" stroke-width="1">
+                        <g>
+                            <rect id="Rectangle-8" x="0.5" y="0.5" width="9" height="9"></rect>
+                            <polygon id="Rectangle-3-Copy-20" fill-opacity="0.460000008" fill="#C00000" transform="translate(4.926983, 4.896140) rotate(-280.000000) translate(-4.926983, -4.896140) " points="2.42698318 2.39613983 4.92698318 3.50725094 7.42698318 2.39613983 6.31587207 4.89613983 7.42698318 7.39613983 4.92698318 6.28502872 2.42698318 7.39613983 3.53809429 4.89613983"></polygon>
+                        </g>
+                    </g>
+                    <circle id="Oval-12-Copy" stroke="#C00000" stroke-width="2" cx="9" cy="16" r="3"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

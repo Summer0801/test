@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>comprehensive_delete</title>
+    <desc>Created with Sketch.</desc>
+    <g id="comprehensive_delete" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="Rectangle" x="0" y="0" width="20" height="20"></rect>
+            <g id="Group-3" transform="translate(1.000000, 1.000000)">
+                <circle id="Oval-27" fill="#634E4F" cx="9" cy="9" r="9"></circle>
+                <g id="Group-2" transform="translate(5.000000, 4.000000)" stroke="#FFFFFF" stroke-linecap="round">
+                    <path d="M0.223492787,0.700364292 L7.90991657,8.87039809" id="Path-54"></path>
+                    <g id="Group" transform="translate(4.000000, 4.500000) scale(-1, 1) translate(-4.000000, -4.500000) translate(0.000000, 0.000000)">
+                        <path d="M0.223492787,0.700364292 L7.90991657,8.87039809" id="Path-54"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

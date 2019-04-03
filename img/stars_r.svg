@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="22px" viewBox="0 0 14 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>stars2@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stars2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="Rectangle-8-Copy" x="0" y="0.5" width="14" height="20"></rect>
+            <g id="Group-5" transform="translate(3.000000, 4.000000)">
+                <g id="stars" transform="translate(2.000000, 9.000000)">
+                    <g>
+                        <rect id="Rectangle-8-Copy" x="0" y="0" width="9" height="9"></rect>
+                        <polygon id="Rectangle-3-Copy-22" fill="#C00000" transform="translate(4.573017, 4.542173) rotate(-289.000000) translate(-4.573017, -4.542173) " points="2.57301682 2.54217346 4.57301682 3.43106235 6.57301682 2.54217346 5.68412793 4.54217346 6.57301682 6.54217346 4.57301682 5.65328457 2.57301682 6.54217346 3.46190571 4.54217346"></polygon>
+                    </g>
+                </g>
+                <circle id="Oval-12" stroke-opacity="0.35" stroke="#C00000" stroke-width="2" cx="3.03084336" cy="3" r="3"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="40px" viewBox="0 0 48 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>uploaddata_icon3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="uploaddata_icon3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="工作证明" transform="translate(1.500000, 1.000000)">
+            <g id="Group-10">
+                <g id="Group-4" transform="translate(10.375000, 5.625000)">
+                    <path d="M1.875,0 L22.375,0 C22.9272847,-1.01453063e-16 23.375,0.44771525 23.375,1 L23.375,22.1875 C23.375,22.7397847 22.9272847,23.1875 22.375,23.1875 L1.875,23.1875 C1.32271525,23.1875 0.875,22.7397847 0.875,22.1875 L0.875,1 C0.875,0.44771525 1.32271525,1.01453063e-16 1.875,0 Z" id="Rectangle-62" fill="#C00000"></path>
+                    <circle id="Oval-3-Copy" fill="#FFFFFF" cx="16.625" cy="7.3125" r="4.5"></circle>
+                    <path d="M4.5625,9.4375 L9.0325175,9.4375" id="Path-66-Copy" stroke="#FFFFFF" stroke-width="2"></path>
+                    <path d="M4.5625,14.625 L19.8006102,14.625" id="Path-66-Copy-2" stroke="#FFFFFF" stroke-width="2"></path>
+                    <path d="M4.5625,18.75 L19.6875,18.75" id="Path-66-Copy-3" stroke="#FFFFFF" stroke-width="2"></path>
+                    <polyline id="Path-66" stroke="#C00000" stroke-width="2" points="14 6.10694798 16.0475886 8.24582819 19.6471343 4.6875"></polyline>
+                </g>
+                <g id="Group-9-Copy"></g>
+            </g>
+        </g>
+    </g>
+</svg>

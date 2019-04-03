@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="40px" viewBox="0 0 48 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>uploaddata_icon7</title>
+    <desc>Created with Sketch.</desc>
+    <g id="uploaddata_icon7" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <polygon id="Rectangle-2-Copy" points="0 0 48 0 48 40 0 40"></polygon>
+            <g id="Group-4" transform="translate(10.000000, 7.000000)">
+                <path d="M24.125,12.8636364 L24.125,25.5 L3.875,25.5 L3.875,12.8636364 C3.875,12.3113516 3.42728475,11.8636364 2.875,11.8636364 L1.87042514,11.8636364 C1.59428277,11.8636364 1.37042514,11.6397787 1.37042514,11.3636364 C1.37042514,11.2161116 1.43557354,11.0761166 1.5484366,10.981114 L13.3560229,1.04206825 C13.728192,0.728794625 14.271808,0.728794625 14.6439771,1.04206825 L26.4515634,10.981114 C26.6628247,11.1589433 26.6899266,11.4743636 26.5120972,11.6856249 C26.4170947,11.798488 26.2770996,11.8636364 26.1295749,11.8636364 L25.125,11.8636364 C24.5727153,11.8636364 24.125,12.3113516 24.125,12.8636364 Z" id="Combined-Shape" fill="#C00000"></path>
+                <g id="Group-25-Copy" transform="translate(10.166667, 9.220000)" stroke="#FFFFFF" stroke-width="2">
+                    <polyline id="Triangle-6" stroke-linejoin="round" transform="translate(3.810206, 3.255496) rotate(-180.000000) translate(-3.810206, -3.255496) " points="0.0495470141 5.82876093 3.81020573 0.682230232 3.81020573 0.682230232 7.57086444 5.82876093"></polyline>
+                    <path d="M3.77372804,5.13137201 L3.77372804,12.5241086" id="Path-73"></path>
+                    <path d="M0.0377527286,6 C0.0377527286,6 2.54485854,6 7.55907016,6" id="Path-74"></path>
+                    <path d="M0.0377527286,9.07453416 C0.0377527286,9.07453416 2.54485854,9.07453416 7.55907016,9.07453416" id="Path-74-Copy"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

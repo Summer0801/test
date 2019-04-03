@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>display@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="display" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="密码可见">
+            <g id="Group-24" transform="translate(6.000000, 5.000000)">
+                <g id="Group-3-Copy" transform="translate(8.500000, 8.000000) scale(1, -1) translate(-8.500000, -8.000000) " stroke="#352424" stroke-width="1.5">
+                    <path d="M0,6 C0,9.20263783 3.80346532,11.7988888 8.49527756,11.7988888 C13.1870898,11.7988888 16.9905551,9.20263783 16.9905551,6" id="Oval-28" stroke-linecap="round"></path>
+                    <path d="M0,0 C0,3.20263783 3.80346532,5.79888876 8.49527756,5.79888876 C13.1870898,5.79888876 16.9905551,3.20263783 16.9905551,0" id="Oval-28" stroke-linecap="round" transform="translate(8.495278, 2.899444) scale(1, -1) translate(-8.495278, -2.899444) "></path>
+                    <path d="M8.5,12.1111111 L8.5,14.5" id="Path-64-Copy"></path>
+                    <path d="M14.1666667,10.7222222 L14.1666667,12.2029694" id="Path-64-Copy-2"></path>
+                    <path d="M2.83333333,10.7222222 L2.83333333,12.2029694" id="Path-64-Copy-3"></path>
+                </g>
+                <circle id="Oval-29" fill="#352424" cx="8.5" cy="9.5" r="2.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
